@@ -1,0 +1,40 @@
+{
+    "fullName": "Chip Shipper Man",
+    "ageRange": null,
+    "gender": "Male",
+    "location": null,
+    "title": null,
+    "organization": "FullContact Inc",
+    "twitter": null,
+    "linkedin": null,
+    "bio": null,
+    "avatar": null,
+    "website": null,
+    "details": {
+        "name": {
+            "given": "Chip",
+            "family": "Man",
+            "full": "Chip Shipper Man"
+        },
+        "age": null,
+        "gender": "Male",
+        "demographics": {
+            "gender": "Male"
+        },
+        "emails": [],
+        "phones": [],
+        "profiles": {},
+        "locations": [],
+        "employment": [
+            {
+                "name": "FullContact Inc",
+                "current": true
+            }
+        ],
+        "photos": [],
+        "education": [],
+        "urls": [],
+        "interests": []
+    },
+    "updated": "2022-03-28"
+}
